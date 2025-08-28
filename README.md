@@ -1,3 +1,4 @@
+
 # HK Mini API
 
 FastAPI + Uvicorn minimal API. Endpoint: `/health` → `{"status":"ok"}`
@@ -13,6 +14,7 @@ FastAPI + Uvicorn minimal API. Endpoint: `/health` → `{"status":"ok"}`
       main.py
     .gitignore
     README.md
+
 
 
 
